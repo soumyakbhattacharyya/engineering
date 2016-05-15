@@ -9,18 +9,17 @@
 
 2\. [Vagrant](part1/02-vagrant.md)
 
-### Part two - UI / UX
-
-1\. [UX](part-02/01-user-experience.md)
-
-### Part three - UI / UX
+### Part two - Backend
 
 1\. TBD
+
+### Part three - Frontend
+
+1\. [UX](part-02/01-user-experience.md)
 
 ### Part four - Design
 
 1\. [Markdown](part-04/01-markdown-reference.md)
-
 
 ## Acknowledgements
 
