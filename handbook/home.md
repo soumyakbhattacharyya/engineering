@@ -3,11 +3,15 @@
 
 ## Contents
 
-### Part one
+### Part one - DevOps
 
 1\. [VirtualBox](part1/01-virtualbox.md)
 
 2\. [Vagrant](part1/02-vagrant.md)
+
+### Part two - UI / UX
+
+1\. [UX](part-02/01-user-experience.md)
 
 
 ## Acknowledgements
