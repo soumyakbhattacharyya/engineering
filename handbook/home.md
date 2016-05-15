@@ -13,6 +13,14 @@
 
 1\. [UX](part-02/01-user-experience.md)
 
+### Part three - UI / UX
+
+1\. TBD
+
+### Part four - Design
+
+1\. [UX](part-04/01-markdown-reference.md)
+
 
 ## Acknowledgements
 
