@@ -19,7 +19,7 @@
 
 ### Part four - Design
 
-1\. [UX](part-04/01-markdown-reference.md)
+1\. [Markdown](part-04/01-markdown-reference.md)
 
 
 ## Acknowledgements
