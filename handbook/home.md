@@ -5,9 +5,11 @@
 
 ### Part one - DevOps
 
-1\. [VirtualBox](part1/01-virtualbox.md)
+1\. [VirtualBox](part-01/01-virtualbox.md)
 
-2\. [Vagrant](part1/02-vagrant.md)
+2\. [Vagrant](part-01/02-vagrant.md)
+
+3\. [Git](part-01/03-git.md)
 
 ### Part two - Backend
 
