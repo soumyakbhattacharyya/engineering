@@ -36,7 +36,7 @@
 
  
 # Part - 2 : Useful Aliases
- 
+  ```
     [core]
     symlinks = false
     repositoryformatversion = 0
@@ -48,7 +48,7 @@
   [branch "master"]
     remote = origin
     merge = refs/heads/master
-  [alias]
+   [alias]
     
     # <<utility>>
     # checkout a to specific branch
@@ -99,7 +99,7 @@
     # git add file1 file2 file3 # add updated files to the git index 
     # git status # get a brief summary about changes to the index, etc. 
     # git revert [commit number] # revert back to a particular version
-   
+  ``` 
    
 
 
