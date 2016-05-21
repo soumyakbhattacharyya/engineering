@@ -19,6 +19,8 @@
 
 1\. [UX](part-02/01-user-experience.md)
 
+2\. [Angular.js](part-02/framework/01-angular.js.md)
+
 ### Part four - Design
 
 1\. [Markdown](part-04/01-markdown-reference.md)
